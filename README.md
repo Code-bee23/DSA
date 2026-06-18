@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Code-bee23/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Code-bee23/DSA/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Code-bee23/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Code-bee23/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Code-bee23/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Code-bee23/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
