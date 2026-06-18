@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Code-bee23/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Code-bee23/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Code-bee23/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Code-bee23/DSA/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Code-bee23/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Code-bee23/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
