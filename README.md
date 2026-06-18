@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Code-bee23/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Code-bee23/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
