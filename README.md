@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-bee23/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Code-bee23/DSA/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Code-bee23/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Code-bee23/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Code-bee23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Code-bee23/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Code-bee23/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
