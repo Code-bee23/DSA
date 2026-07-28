@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Code-bee23/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Code-bee23/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Code-bee23/DSA/tree/master/0412-fizz-buzz) |
+| [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Code-bee23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
