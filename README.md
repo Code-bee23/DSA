@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Code-bee23/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Code-bee23/DSA/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 ## Number Theory
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Code-bee23/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Code-bee23/DSA/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Code-bee23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Code-bee23/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Code-bee23/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Code-bee23/DSA/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Code-bee23/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Code-bee23/DSA/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Code-bee23/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Code-bee23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
