@@ -5,47 +5,25 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(nums)
-        pos = []
-        neg = []
+        
+        res = [0]*n
 
-        #separate neg. and positive number
-        for num in nums:
-            if num<0:
-                neg.append(num)
+        left = 0
+        right = n-1
+        index = n-1
+
+        while left<=right:
+            left_sq = nums[left]*nums[left]
+            
+            right_sq = nums[right]*nums[right]
+
+            if left_sq>right_sq:
+                res[index] = left_sq
+                left += 1
+
             else:
-                pos.append(num)
-
-        #Case1: when no negative number comes
-        if len(neg) == 0:
-            return [x*x for x in pos]
-
-        #case2: when no positive number comes
-        if len(pos) == 0:
-            res = [x*x for x in neg]
-            res.reverse()
-            return res
-
-        #Case3: when both are present:
-        neg = [x*x for x in neg][::-1]
-        pos = [x*x for x in pos]
-
-        n, m = len(neg) , len(pos)
-
-        res = []
-        i = j = 0 
-        while i<n and j<m :
-            if neg[i] < pos[j]:
-                res.append(neg[i])
-                i += 1
-            else:
-                res.append(pos[j])
-                j += 1
-
-        while i<n :
-            res.append(neg[i])
-            i += 1
-        while j<m :
-            res.append(pos[j])
-            j += 1
+                res[index] = right_sq
+                right -= 1
+            
+            index -= 1
         return res
-
