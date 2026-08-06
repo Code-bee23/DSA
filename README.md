@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Code-bee23/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Code-bee23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Code-bee23/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Code-bee23/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## String Matching
 |  |
 | ------- |
