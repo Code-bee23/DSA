@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Code-bee23/DSA/tree/master/0459-repeated-substring-pattern) |
+| [0541-reverse-string-ii](https://github.com/Code-bee23/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Code-bee23/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Code-bee23/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Code-bee23/DSA/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Code-bee23/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Code-bee23/DSA/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
