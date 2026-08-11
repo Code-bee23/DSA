@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Code-bee23/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Code-bee23/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Code-bee23/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
@@ -251,15 +252,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Code-bee23/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Code-bee23/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Code-bee23/DSA/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
