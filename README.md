@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Code-bee23/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-bee23/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Code-bee23/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Code-bee23/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Code-bee23/DSA/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Math
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Code-bee23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Code-bee23/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Code-bee23/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
