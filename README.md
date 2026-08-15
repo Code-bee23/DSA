@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Code-bee23/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Code-bee23/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Code-bee23/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Code-bee23/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
