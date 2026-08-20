@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Code-bee23/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Code-bee23/DSA/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Code-bee23/DSA/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Code-bee23/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Code-bee23/DSA/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Code-bee23/DSA/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Code-bee23/DSA/tree/master/1920-build-array-from-permutation) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Code-bee23/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
