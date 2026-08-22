@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Code-bee23/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Code-bee23/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-bee23/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Code-bee23/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
