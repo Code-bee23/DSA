@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Code-bee23/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Code-bee23/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-bee23/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1927-sum-game](https://github.com/Code-bee23/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Code-bee23/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Code-bee23/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Code-bee23/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Code-bee23/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/Code-bee23/DSA/tree/master/1927-sum-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Code-bee23/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Code-bee23/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1927-sum-game](https://github.com/Code-bee23/DSA/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Code-bee23/DSA/tree/master/0141-linked-list-cycle) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Code-bee23/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
