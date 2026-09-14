@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Code-bee23/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Code-bee23/DSA/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Code-bee23/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Code-bee23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Code-bee23/DSA/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Code-bee23/DSA/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Code-bee23/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Code-bee23/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Code-bee23/DSA/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Code-bee23/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Code-bee23/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 | [1927-sum-game](https://github.com/Code-bee23/DSA/tree/master/1927-sum-game) |
 ## Monotonic Stack
 |  |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Code-bee23/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Code-bee23/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Code-bee23/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
 |  |
@@ -383,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Code-bee23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
