@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Code-bee23/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Code-bee23/DSA/tree/master/0283-move-zeroes) |
+| [0502-ipo](https://github.com/Code-bee23/DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0704-binary-search](https://github.com/Code-bee23/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-bee23/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Code-bee23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Code-bee23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Code-bee23/DSA/tree/master/0268-missing-number) |
+| [0502-ipo](https://github.com/Code-bee23/DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Code-bee23/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0502-ipo](https://github.com/Code-bee23/DSA/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Code-bee23/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Code-bee23/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Code-bee23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/Code-bee23/DSA/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Code-bee23/DSA/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
