@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Code-bee23/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Code-bee23/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Code-bee23/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Code-bee23/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Code-bee23/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Code-bee23/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0088-merge-sorted-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Code-bee23/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Code-bee23/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Code-bee23/DSA/tree/master/0039-combination-sum) |
 ## Depth-First Search
 |  |
 | ------- |
