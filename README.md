@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Code-bee23/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Code-bee23/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Code-bee23/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/Code-bee23/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Code-bee23/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Code-bee23/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Code-bee23/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Code-bee23/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Code-bee23/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Code-bee23/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1927-sum-game](https://github.com/Code-bee23/DSA/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Code-bee23/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Code-bee23/DSA/tree/master/3871-count-commas-in-range-ii) |
