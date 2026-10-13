@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Code-bee23/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Code-bee23/DSA/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Code-bee23/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Code-bee23/DSA/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Code-bee23/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Code-bee23/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Code-bee23/DSA/tree/master/0169-majority-element) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Code-bee23/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Code-bee23/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Code-bee23/DSA/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Code-bee23/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Code-bee23/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Code-bee23/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Code-bee23/DSA/tree/master/0242-valid-anagram) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Code-bee23/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Code-bee23/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Code-bee23/DSA/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Code-bee23/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Code-bee23/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Code-bee23/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Code-bee23/DSA/tree/master/0226-invert-binary-tree) |
@@ -585,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Code-bee23/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Code-bee23/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
