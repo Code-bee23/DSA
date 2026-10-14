@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Code-bee23/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Code-bee23/DSA/tree/master/0778-swim-in-rising-water) |
 | [0804-unique-morse-code-words](https://github.com/Code-bee23/DSA/tree/master/0804-unique-morse-code-words) |
+| [0875-koko-eating-bananas](https://github.com/Code-bee23/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Code-bee23/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Code-bee23/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Code-bee23/DSA/tree/master/0994-rotting-oranges) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Code-bee23/DSA/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Code-bee23/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0778-swim-in-rising-water](https://github.com/Code-bee23/DSA/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/Code-bee23/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Code-bee23/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
